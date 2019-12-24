@@ -86,9 +86,12 @@
 <img src='images/流程结构图.png'>
 4. 产品结构图
 <img src='images/产品结构图.png'>
+
 ## 原型
 #### 使用者交互与设计（axure产品原型）
+
 - [原型文档展示](http://nfunm048.gitee.io/api_final_axsure/#g=1&p=1_%E6%90%9C%E7%B4%A2%E9%A1%B5)
+
 - [原型文档下载区](https://gitee.com/NFUNM048/api_final_axsure)
 
 #### 交互及界面设计
